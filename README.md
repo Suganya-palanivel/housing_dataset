@@ -1,5 +1,7 @@
 California Housing Price Prediction using Linear Regression
+
 1. Overview
+
 This project implements a Machine Learning model to predict median house values in California using the California Housing dataset. The project follows an end-to-end Machine Learning workflow, including data loading, data preprocessing, exploratory data analysis (EDA), data visualization, model training, evaluation, and interpretation.
 
 The objective is to understand how different housing and demographic features influence median house values and to build a predictive model using Linear Regression.
@@ -7,6 +9,7 @@ The objective is to understand how different housing and demographic features in
 This project is developed as a beginner-friendly introduction to regression-based Machine Learning.
 
 2. Objectives
+
 Understand and explore the California Housing dataset.
 
 Perform data cleaning and preprocessing.
@@ -237,5 +240,3 @@ Model saving and reuse.
 This project demonstrates the implementation of Linear Regression for predicting California housing values. It covers the complete Machine Learning lifecycle, from data preparation and exploratory analysis to model training, evaluation, visualization, and interpretation.
 
 The trained Linear Regression model serves as a baseline for understanding regression problems and for comparing the performance of more advanced Machine Learning algorithms in future experiments.
-
-
